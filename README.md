@@ -1,7 +1,7 @@
 # justdancebest (JDCS)
 Just Dance Custom Server API, used for Just Dance Best.
 
-**JDCS (Just Dance Custom Service)** is a mock-up of Just Dance Unlimited (JMCS) servers by Ubisoft.
+**JDCS (Just Dance Custom Service)** is a mock-up of **Just Dance Unlimited (JMCS)** servers by Ubisoft.
 
 **Just Dance Unlimited** is a online-subscription service created by Ubisoft back in 2015 for Just Dance 2016-2021 and on for Xbox One, Xbox Series, PS4, PS5, Wii U, Nintendo Switch, PC and Google Stadia.
 
