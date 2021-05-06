@@ -21,6 +21,15 @@ There are 3 types of configuration in Just Dance Best.
 - **Environment file** where the server's main config such as maps folder, server port are in
 - **JDCS object** in jdcs.js, where all UbiServices and official JMCS server urls are in.
 
+## Admin Panel
+**JDCS** comes with a free-easy to access admin panel along with itself. In this admin panel, we have scripts for you to control your server easily.
+- Add/edit songs
+- Add/edit aliases
+- View your CDN files
+- Make developer requests to access the server with no credientials
+
+and more!
+
 ## License
 There is no license for this project currently.
 
