@@ -12,6 +12,7 @@ Just Dance Custom Server API, used for Just Dance Best.
 
 - Use `git clone https://github.com/heyimyunyl/justdancebest.git` or download the repo as a ZIP file directly.
 - Once you are done, go into `justdancebest` folder and run `npm i` to install all packages that are required.
+- After that, you can run the server by `node jdcs.js`.
 
 ### Configuration
 There are 3 types of configuration in Just Dance Best. 
